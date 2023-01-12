@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083854760676",
+    "project_id": "presensi-86e52",
+    "storage_bucket": "presensi-86e52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083854760676:android:9de2087804a58eb40f9af1",
+        "android_client_info": {
+          "package_name": "com.nazma.presensi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083854760676-jmpe5opchi5oj75oan07lk18octr1leh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvYtjtUwjxO3CHdRCSnMubDtV2soZZYXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083854760676-jmpe5opchi5oj75oan07lk18octr1leh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

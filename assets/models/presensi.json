@@ -1,0 +1,29 @@
+{
+    "date": "",
+    "masuk": {
+        "address": "",
+        "status": "",
+        "date": "",
+        "jarak": 0.0,
+        "lat": 0.0,
+        "long": 0.0
+    },
+    "keluar": {
+        "address": "",
+        "status": "",
+        "date": "",
+        "jarak": 0.0,
+        "lat": 0.0,
+        "long": 0.0
+    },
+    "cuti": {
+        "date": "",
+        "status": "",
+        "keterangan": ""
+    },
+    "sakit": {
+        "date": "",
+        "status": "",
+        "keterangan": ""
+    }
+}
